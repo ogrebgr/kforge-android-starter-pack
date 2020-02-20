@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forge Starter Pack</string>
+    <!--
+<string name="build_conf_base_url" translatable="false">http://localhost:8080/api1.0/admin/</string>
+-->
+    <string name="build_conf_base_url" translatable="false">http://10.0.2.2:8080/api1.0/admin/</string>
+    <bool name="build_conf_dev_mode" translatable="false">true</bool>
+</resources>
